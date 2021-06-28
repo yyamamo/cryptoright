@@ -1,2 +1,0 @@
-# Cryptoright
-## class activity 
